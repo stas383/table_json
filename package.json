@@ -3,12 +3,13 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "material-ui": "^0.20.0",
-    "react": "^16.2.0",
-    "react-bootstrap-table": "^4.3.1",
-    "react-dom": "^16.2.0",
-    "react-scripts": "1.1.0",
-    "react-tap-event-plugin": "^3.0.2"
+    "react-dom": "latest",
+    "react-autosuggest": "latest",
+    "react": "latest",
+    "material-ui-icons": "latest",
+    "material-ui": "next",
+    "downshift": "latest",
+    "autosuggest-highlight": "latest"
   },
   "scripts": {
     "start": "react-scripts start",
